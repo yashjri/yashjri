@@ -1,6 +1,5 @@
 # Hi👋there, I'm Yash Singh! 
-
-A passionate Web developer from India.
+<h3 align="center">A passionate Web developer from India.</h3
 
 ## I'm a Student, Developer, and Chess Player!!
 
@@ -48,6 +47,8 @@ A passionate Web developer from India.
   <summary>:zap: GitHub Stats</summary>
 
   <img align="left" alt="yashjri's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=yashjri&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yashjri&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yashjri&show_icons=true&locale=en&layout=compact" alt="yashjri" /></p>
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.verc
 
 </details>
