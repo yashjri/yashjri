@@ -40,7 +40,8 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="yashjri's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=yashjri&show_icons=true&theme=dracula&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+  <img align="left" alt="Yash GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=yashjri&show_icons=true&theme=tokyonight&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+
   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yashjri&show_icons=true&locale=en&layout=compact" alt="yashjri" /></p>
   <p>&nbsp;<img align="center" src="https://github-readme-stats.verc
 
