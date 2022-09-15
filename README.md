@@ -41,7 +41,8 @@
   <summary>:zap: GitHub Stats</summary>
 
   <img align="left" alt="Yash GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=yashjri&show_icons=true&theme=tokyonight"/>
-
+  <br/>
+  <br/>
   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yashjri&show_icons=true&locale=en&layout=compact" alt="yashjri" /></p>
   <p>&nbsp;<img align="center" src="https://github-readme-stats.verc
 
