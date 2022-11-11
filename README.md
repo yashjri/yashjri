@@ -1,7 +1,8 @@
 <h1 align="center">Hi👋there, I'm Yash Singh! </h1>
 <h3 align="center">A passionate Web developer from India.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yashjri&label=Profile%20views&color=0e75b6&style=flat" alt="yashjri" /> 
+<p align="left">  
+<img src="https://komarev.com/ghpvc/?username=yashjri&color=blue"/> 
 <img src="https://wakatime.com/badge/user/db07c0b8-73d5-4aef-8d03-49be9c52c4b1.svg"/>
 </p>
 
