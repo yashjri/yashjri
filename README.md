@@ -1,7 +1,9 @@
 <h1 align="center">Hi👋there, I'm Yash Singh! </h1>
 <h3 align="center">A passionate Web developer from India.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yashjri&label=Profile%20views&color=0e75b6&style=flat" alt="yashjri" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yashjri&label=Profile%20views&color=0e75b6&style=flat" alt="yashjri" /> 
+<img src="https://wakatime.com/badge/user/db07c0b8-73d5-4aef-8d03-49be9c52c4b1.svg"/>
+</p>
 
 ## I'm a Student, Developer, and Chess Player!!
 
@@ -55,5 +57,4 @@
   <br/>
   <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yashjri&show_icons=true&locale=en&layout=compact" alt="yashjri" /></p>
   <p>&nbsp;<img align="center" src="https://github-readme-stats.verc
-
 </details>
