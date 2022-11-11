@@ -4,7 +4,7 @@
 <p align="left">  
 <img src="https://komarev.com/ghpvc/?username=yashjri&color=blue"/> 
 </p>
-
+ 
 ## I'm a Student, Developer, and Chess Player!!
 
 - 🌱 I’m currently learning Python.
@@ -58,3 +58,7 @@
   <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yashjri&show_icons=true&locale=en&layout=compact" alt="yashjri" /></p>
   <p>&nbsp;<img align="center" src="https://github-readme-stats.verc
 </details>
+<br/>
+<p align = "left">
+<img src="https://capsule-render.vercel.app/api?type=Waving&color=white&height=250&section=footer&text=Thanks%20For%20Visiting&fontSize=50&theme=tokyonight&animation=twinkling&fontAlignY=70" />
+</p>
