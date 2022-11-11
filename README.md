@@ -3,7 +3,6 @@
 
 <p align="left">  
 <img src="https://komarev.com/ghpvc/?username=yashjri&color=blue"/> 
-<img src="https://wakatime.com/badge/user/db07c0b8-73d5-4aef-8d03-49be9c52c4b1.svg"/>
 </p>
 
 ## I'm a Student, Developer, and Chess Player!!
