@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning Python.
 - 👯 I’m looking to collaborate with other Web Developers.
 - 🥅 2022 Goals: Learn more about Web Development.
-- ⚡ Fun fact: I Love to Play Football and Chess.
+- ⚡ Fact: The Best way to predict the Future is to invent it.
 
 
 <h2 align="center">Connect with me</h2>
