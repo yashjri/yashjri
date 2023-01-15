@@ -1,22 +1,34 @@
 <h1 align="center">Hi👋there, I'm Yash Singh! </h1>
 <h3 align="center">A passionate Web developer from India.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yashjri&label=Profile%20views&color=0e75b6&style=flat" alt="yashjri" /> </p>
-
+<p align="left">  
+<img src="https://komarev.com/ghpvc/?username=yashjri&color=blue"/> 
+</p>
+ 
 ## I'm a Student, Developer, and Chess Player!!
 
 - 🌱 I’m currently learning Java.
 - 👯 I’m looking to collaborate with other Web Developers.
+<<<<<<< HEAD
 - 🥅 2023 Goals: Learn more about Backend Technologies.
 - ⚡ Hobbies: I Love to Play Football and Chess.
+=======
+- 🥅 2022 Goals: Learn more about Web Development.
+- ⚡ Fact: The Best way to predict the Future is to invent it.
+>>>>>>> 29f27314183dd3f0c679df7df3cfcc4fc3de1f63
 
 
-### Connect with me:
-<p align="left">
-<a href="https://twitter.com/Yash23611061" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Yash23611061" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/yash-s-79352b220" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yash-s-79352b220" height="30" width="40" /></a>
-<a href="https://instagram.com/its.yashsingh__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@its.yashsingh__" height="30" width="40" /></a>
-</p>
+<h2 align="center">Connect with me</h2>
+<div align="center">
+<a href="https://linkedin.com/in/yash-s-79352b220" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://instagram.com/its.yashsingh__" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>
+<a href="https://github.com/yashjri" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
  
@@ -43,15 +55,20 @@
 <br />
 <br />
 
----
+
 
 <details>
   <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="Yash GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=yashjri&show_icons=true&theme=tokyonight"/>
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yashjri&theme=gotham&hide_border=true" />
   <br/>
   <br/>
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yashjri&show_icons=true&locale=en&layout=compact" alt="yashjri" /></p>
+  <p align = "center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=yashjri&theme=github_dark">
+  <img src = "http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yashjri&theme=github_dark">
+  </p> 
+  <br/>
+  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yashjri&show_icons=true&locale=en&layout=compact" alt="yashjri" /></p>
   <p>&nbsp;<img align="center" src="https://github-readme-stats.verc
-
 </details>
+
