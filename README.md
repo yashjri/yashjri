@@ -7,9 +7,9 @@
  
 ## I'm a Student, Developer, and Chess Player!!
 
-- 💻 I’m currently learning **Java**.
+- 💻 I’m currently learning **ReactJS**.
 - 👯 I’m looking to collaborate with other Web Developers.
-- 🥅 2023 Goals: Learn more about **Backend Technologies**.
+- 🥅 2024 Goals: Learn more about **FullStack Development**.
 - ⚡ Hobbies: I Love to Play **Football** and **Chess**.
 
 
