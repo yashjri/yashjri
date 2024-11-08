@@ -1,5 +1,5 @@
 <h1 align="center">Hi👋there, I'm Yash Singh! </h1>
-<h3 align="center">A passionate Web developer from India.</h3>
+<h3 align="center">A Passionate Frontend Developer from India.</h3>
 
 <p align="left">  
 <img src="https://komarev.com/ghpvc/?username=yashjri&color=blue"/> 
@@ -8,14 +8,14 @@
 ## I'm a Student, Developer, and Chess Player!!
 
 - 💻 I’m currently learning **ReactJS**.
-- 👯 I’m looking to collaborate with other Web Developers.
+- 👯 I’m looking to collaborate with other Software Developers.
 - 🥅 2024 Goals: Learn more about **FullStack Development**.
 - ⚡ Hobbies: I Love to Play **Football** and **Chess**.
 
 
 <h2 align="center">Connect with me</h2>
 <div align="center">
-<a href="https://linkedin.com/in/yash-s-79352b220" target="_blank">
+<a href="https://www.linkedin.com/in/its-yashsingh" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <a href="https://instagram.com/its.yashsingh__" target="_blank">
