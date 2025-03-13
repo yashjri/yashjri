@@ -1,5 +1,5 @@
 <h1 align="center">Hi👋there, I'm Yash Singh! </h1>
-<h3 align="center">A Passionate Frontend Developer from India.</h3>
+<h3 align="center">A Passionate Software Developer from India.</h3>
 
 <p align="left">  
 <img src="https://komarev.com/ghpvc/?username=yashjri&color=blue"/> 
@@ -7,9 +7,9 @@
  
 ## I'm a Student, Developer, and Chess Player!!
 
-- 💻 I’m currently learning **ReactJS**.
+- 💻 I’m currently learning **Full-Stack Development**.
 - 👯 I’m looking to collaborate with other Software Developers.
-- 🥅 2024 Goals: Learn more about **FullStack Development**.
+- 🥅 2025 Goals: Learn more about **Software Development**.
 - ⚡ Hobbies: I Love to Play **Football** and **Chess**.
 
 
